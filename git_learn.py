@@ -1,0 +1,5 @@
+print('Learn git commands basic')
+print('git add . means track(add) all files that listed')
+print('git add <name file> means track only one file that specified')
+print('git commit -m "Sometext" -m "some description": commit files to git but only on local machine')
+print('git push : push files to git repository')
